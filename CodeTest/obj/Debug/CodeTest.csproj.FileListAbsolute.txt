@@ -1,0 +1,10 @@
+C:\Users\Shamekhi\Desktop\UsefullCodes\CodeTest\bin\Debug\CodeTest.exe.config
+C:\Users\Shamekhi\Desktop\UsefullCodes\CodeTest\bin\Debug\CodeTest.exe
+C:\Users\Shamekhi\Desktop\UsefullCodes\CodeTest\bin\Debug\CodeTest.pdb
+C:\Users\Shamekhi\Desktop\UsefullCodes\CodeTest\obj\Debug\CodeTest.csprojResolveAssemblyReference.cache
+C:\Users\Shamekhi\Desktop\UsefullCodes\CodeTest\obj\Debug\CodeTest.Form1.resources
+C:\Users\Shamekhi\Desktop\UsefullCodes\CodeTest\obj\Debug\CodeTest.Properties.Resources.resources
+C:\Users\Shamekhi\Desktop\UsefullCodes\CodeTest\obj\Debug\CodeTest.csproj.GenerateResource.Cache
+C:\Users\Shamekhi\Desktop\UsefullCodes\CodeTest\obj\Debug\CodeTest.csproj.CoreCompileInputs.cache
+C:\Users\Shamekhi\Desktop\UsefullCodes\CodeTest\obj\Debug\CodeTest.exe
+C:\Users\Shamekhi\Desktop\UsefullCodes\CodeTest\obj\Debug\CodeTest.pdb

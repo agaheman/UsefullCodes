@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Agah.TestDB" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=Agah.TestDB;Integrated Security=True" SettingsObjectName="EF_Test.Properties.Settings" SettingsPropertyName="Agah_TestDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Persons" Member="Persons">
+    <Type Name="Person">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="NVarChar(27) NOT NULL" CanBeNull="false" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(27) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

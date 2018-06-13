@@ -1,0 +1,12 @@
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\obj\Debug\ServiceStateObserver.csprojResolveAssemblyReference.cache
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\obj\Debug\ServiceStateObserver.Form1.resources
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\obj\Debug\ServiceStateObserver.Properties.Resources.resources
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\obj\Debug\ServiceStateObserver.csproj.GenerateResource.Cache
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\obj\Debug\ServiceStateObserver.csproj.CoreCompileInputs.cache
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\bin\Debug\ServiceStateObserver.exe.config
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\bin\Debug\ServiceStateObserver.exe
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\bin\Debug\ServiceStateObserver.pdb
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\bin\Debug\AgahClassLibrary.dll
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\bin\Debug\AgahClassLibrary.pdb
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\obj\Debug\ServiceStateObserver.exe
+D:\Users\Shamekhi\Desktop\UsefullCodes\ServiceStateObserver\obj\Debug\ServiceStateObserver.pdb

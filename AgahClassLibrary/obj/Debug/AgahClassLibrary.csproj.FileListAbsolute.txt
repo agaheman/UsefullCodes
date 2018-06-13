@@ -1,0 +1,6 @@
+D:\Users\Shamekhi\Desktop\UsefullCodes\AgahClassLibrary\obj\Debug\AgahClassLibrary.csprojResolveAssemblyReference.cache
+D:\Users\Shamekhi\Desktop\UsefullCodes\AgahClassLibrary\obj\Debug\AgahClassLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Shamekhi\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\AgahClassLibrary.dll
+D:\Users\Shamekhi\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\AgahClassLibrary.pdb
+D:\Users\Shamekhi\Desktop\UsefullCodes\AgahClassLibrary\obj\Debug\AgahClassLibrary.dll
+D:\Users\Shamekhi\Desktop\UsefullCodes\AgahClassLibrary\obj\Debug\AgahClassLibrary.pdb

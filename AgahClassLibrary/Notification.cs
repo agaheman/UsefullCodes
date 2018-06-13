@@ -12,7 +12,7 @@ namespace AgahClassLibrary
        
 
         /// <param name="icon">new System.Drawing.Icon(System.IO.Path.GetFullPath(@"Path"))</param>
-        public void DisplayNotify(System.Drawing.Icon icon,string text,string balloonTipTitle,string balloonTipText,int timeout=100)
+        public void DisplayNotify(System.Drawing.Icon icon ,string text,string balloonTipTitle="",string balloonTipText="",int timeout=100)
         {
             var notifyIcon = new NotifyIcon();
             try
@@ -29,5 +29,23 @@ namespace AgahClassLibrary
                 // ignored
             }
         }
+
+        public void DisplayNotify(string text, string balloonTipTitle = "", string balloonTipText = "", int timeout = 100)
+        {
+            var notifyIcon = new NotifyIcon();
+            try
+            {
+                notifyIcon.Text = text;
+                notifyIcon.Visible = true;
+                notifyIcon.BalloonTipTitle = balloonTipTitle;
+                notifyIcon.BalloonTipText = balloonTipText;
+                notifyIcon.ShowBalloonTip(timeout);
+            }
+            catch (Exception ex)
+            {
+                // ignored
+            }
+        }
+
     }
 }

@@ -96,14 +96,14 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AgahClassLibrary\AgahClassLibrary.csproj">
-      <Project>{c6fbc04b-9d27-48de-9cec-df577a85e905}</Project>
-      <Name>AgahClassLibrary</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="ReadMe.txt" />
     <Content Include="SqlTableDependency.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AgahClassLibrary\AgahClassLibrary.csproj">
+      <Project>{3d4f5fb6-90b5-4101-9ea4-57451efff945}</Project>
+      <Name>AgahClassLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

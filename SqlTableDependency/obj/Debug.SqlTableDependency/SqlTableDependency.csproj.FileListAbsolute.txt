@@ -1,0 +1,14 @@
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\obj\Debug.SqlTableDependency\SqlTableDependency.csprojResolveAssemblyReference.cache
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\obj\Debug.SqlTableDependency\SqlTableDependency.FormSqlTableDependency.resources
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\obj\Debug.SqlTableDependency\SqlTableDependency.Properties.Resources.resources
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\obj\Debug.SqlTableDependency\SqlTableDependency.csproj.GenerateResource.Cache
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\obj\Debug.SqlTableDependency\SqlTableDependency.csproj.CoreCompileInputs.cache
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\bin\Debug.SqlTableDependency\SqlTableDependency.exe.config
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\bin\Debug.SqlTableDependency\SqlTableDependency.exe
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\bin\Debug.SqlTableDependency\SqlTableDependency.pdb
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\bin\Debug.SqlTableDependency\AgahClassLibrary.dll
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\bin\Debug.SqlTableDependency\TableDependency.dll
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\bin\Debug.SqlTableDependency\TableDependency.SqlClient.dll
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\bin\Debug.SqlTableDependency\AgahClassLibrary.pdb
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\obj\Debug.SqlTableDependency\SqlTableDependency.exe
+C:\Users\Shamekhi\OneDrive\Projects\UsefullCodes\SqlTableDependency\obj\Debug.SqlTableDependency\SqlTableDependency.pdb
