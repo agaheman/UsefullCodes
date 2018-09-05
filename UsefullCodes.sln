@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTest", "CodeTest\CodeTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceStateObserver", "ServiceStateObserver\ServiceStateObserver.csproj", "{DB3F12B8-3DF9-41EC-A091-5184DB30E222}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionResiliency", "ConnectionResiliency\ConnectionResiliency.csproj", "{50C48B7A-7FC8-4B43-A200-387FD73A8FB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug.SqlTableDependency|Any CPU = Debug.SqlTableDependency|Any CPU
@@ -68,6 +70,12 @@ Global
 		{DB3F12B8-3DF9-41EC-A091-5184DB30E222}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB3F12B8-3DF9-41EC-A091-5184DB30E222}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB3F12B8-3DF9-41EC-A091-5184DB30E222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C48B7A-7FC8-4B43-A200-387FD73A8FB4}.Debug.SqlTableDependency|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C48B7A-7FC8-4B43-A200-387FD73A8FB4}.Debug.SqlTableDependency|Any CPU.Build.0 = Debug|Any CPU
+		{50C48B7A-7FC8-4B43-A200-387FD73A8FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C48B7A-7FC8-4B43-A200-387FD73A8FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C48B7A-7FC8-4B43-A200-387FD73A8FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C48B7A-7FC8-4B43-A200-387FD73A8FB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

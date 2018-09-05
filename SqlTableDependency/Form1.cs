@@ -26,13 +26,15 @@ namespace SqlTableDependency
 
         private class Person
         {
-            public int Id { get; set; }
+            public int PersonId { get; set; }
+            public int NationalNumber { get; set; }
             public string FirstName { get; set; }
             public string LastName { get; set; }
         }
 
-        static string _connectionString = "Data Source=.;Initial Catalog=Agah.TestDB;User ID=Agah;Password=Openit14";
-
+        static string _connectionString = "Data Source=.;Initial Catalog=AgahTestDB;User ID=sa;Password=Sonylive1";
+        //SqlTableDependency 
+        //https://www.nuget.org/packages/SqlTableDependency/
         private static ModelToTableMapper<Person> _mapper;
 
         private SqlTableDependency<Person> _tableDependency;
@@ -41,7 +43,8 @@ namespace SqlTableDependency
         {
             _mapper = new ModelToTableMapper<Person>();
 
-            _mapper.AddMapping(p => p.Id, "Id");
+            _mapper.AddMapping(p => p.PersonId, "PersonId");
+            _mapper.AddMapping(p => p.NationalNumber, "NationalNumber");
             _mapper.AddMapping(p => p.FirstName, "FirstName");
             _mapper.AddMapping(p => p.LastName, "LastName");
 
@@ -62,13 +65,14 @@ namespace SqlTableDependency
             string text = "Database: " + e.Database + Environment.NewLine +
                           "Server: " + e.Server + Environment.NewLine +
                           "ChangeType: " + e.ChangeType + Environment.NewLine +
-                          "Entity.Id: " + e.Entity.Id + Environment.NewLine +
+                          "Entity.PersonId: " + e.Entity.PersonId + Environment.NewLine +
+                          "Entity.NationalNumber: " + e.Entity.NationalNumber + Environment.NewLine +
                           "Entity.FirstName: " + e.Entity.FirstName + Environment.NewLine +
                           "Entity.LastName: " + e.Entity.LastName + Environment.NewLine +
                           "Sender: " + e.Sender + Environment.NewLine;
 
             Notification noty = new Notification();
-            noty.DisplayNotify(new System.Drawing.Icon(System.IO.Path.GetFullPath(@"C:\Program Files (x86)\Microsoft Visual Studio 10.0\Setup\setup.ico")), " :تغییر در سرور" + e.Server, " :تغییر در دیتابیس" + e.Database, text);
+            noty.DisplayNotify(new System.Drawing.Icon(System.IO.Path.GetFullPath(@"C:\Program Files (x86)\Cisco\Cisco AnyConnect Secure Mobility Client\res\attention.ico")), " :تغییر در سرور" + e.Server, " :تغییر در دیتابیس" + e.Database, text);
         }
 
         private void FormSqlTableDependency_Load(object sender, EventArgs e)

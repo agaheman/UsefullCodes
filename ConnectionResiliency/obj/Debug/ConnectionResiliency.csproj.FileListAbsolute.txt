@@ -1,0 +1,17 @@
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\bin\Debug\ConnectionResiliency.exe.config
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\bin\Debug\ConnectionResiliency.exe
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\bin\Debug\ConnectionResiliency.pdb
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\bin\Debug\AgahClassLibrary.dll
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\bin\Debug\EntityFramework.dll
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\bin\Debug\AgahClassLibrary.pdb
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\bin\Debug\AgahClassLibrary.dll.config
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\bin\Debug\EntityFramework.xml
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\obj\Debug\ConnectionResiliency.csprojResolveAssemblyReference.cache
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\obj\Debug\ConnectionResiliency.Form1.resources
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\obj\Debug\ConnectionResiliency.Properties.Resources.resources
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\obj\Debug\ConnectionResiliency.csproj.GenerateResource.Cache
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\obj\Debug\ConnectionResiliency.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\obj\Debug\ConnectionResiliency.exe
+C:\Users\Agah\Desktop\UsefullCodes\ConnectionResiliency\obj\Debug\ConnectionResiliency.pdb

@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using AgahClassLibrary;
+using DNTPersianUtils.Core;
 
 namespace CodeTest
 {
@@ -82,7 +83,9 @@ namespace CodeTest
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Text= System.Enum.IsDefined(typeof(ProgramNameEnum),Convert.ToInt32(textBox1.Text)) ? ((ProgramNameEnum) Convert.ToInt32(textBox1.Text)).ToString().Replace("___", ")").Replace("__", "(").Replace("_", " ") : "نا مشخص";
+            //this.Text= System.Enum.IsDefined(typeof(ActivityTypeEnum),Convert.ToInt32(textBox1.Text)) ? ((ActivityTypeEnum) Convert.ToInt32(textBox1.Text)).ToString().Replace("___", ")").Replace("__", "(").Replace("_", " ") : "نا مشخص";
+
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -92,9 +95,27 @@ namespace CodeTest
 
         private void Btn_SqlClass_Click(object sender, EventArgs e)
         {
-            var newSqlClass = new SqlClass("AgahTestDB");
+           // var newSqlClass = new SqlClass("AgahTestDB");
 
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox2.Text= new StringManipulator().StringManipulatorBy(textBox1.Text);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            DateTime dt = DateTime.Now;
+            textBox1.Text = dt.ToShortPersianDateTimeString();
+            textBox2.Text = textBox1.Text.ToGregorianDateTime().ToString();
+            MessageBox.Show(
+                $@"GetPersianWeekDayName    {dt.GetPersianWeekDayName()}{Environment.NewLine}
+                    GetPersianMonth {dt.GetPersianMonth()}{Environment.NewLine}
+                    ToShortPersianDateString    {dt.ToShortPersianDateString()}{Environment.NewLine}
+                    NormalizePersianText    {"'سلام عزیزم'.".NormalizePersianText(PersianNormalizers.ConvertEnglishQuotes)}{Environment.NewLine}
+                    '1397/01/00' IsValidPersianDateTime  {"1397/01/00".IsValidPersianDateTime()}{Environment.NewLine}");
         }
     }
 }

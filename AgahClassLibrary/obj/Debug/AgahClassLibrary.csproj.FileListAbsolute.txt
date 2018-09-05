@@ -4,3 +4,14 @@ D:\Users\Shamekhi\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\AgahClassLibra
 D:\Users\Shamekhi\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\AgahClassLibrary.pdb
 D:\Users\Shamekhi\Desktop\UsefullCodes\AgahClassLibrary\obj\Debug\AgahClassLibrary.dll
 D:\Users\Shamekhi\Desktop\UsefullCodes\AgahClassLibrary\obj\Debug\AgahClassLibrary.pdb
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\AgahClassLibrary.dll
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\AgahClassLibrary.pdb
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\obj\Debug\AgahClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\obj\Debug\AgahClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\obj\Debug\AgahClassLibrary.dll
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\obj\Debug\AgahClassLibrary.pdb
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\AgahClassLibrary.dll.config
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Debug\EntityFramework.SqlServer.xml

@@ -17,20 +17,41 @@ namespace AgahClassLibrary
 
         public ServiceManagement(string serviceName,string onStopMessage)
         {
+            if (ServiceIsGivenAndExists(serviceName))
+            {
+                _serviceController = new ServiceController(serviceName);
+                _onStopMessage = onStopMessage;
+            }           
+        }
+
+        public string StartService(string serviceName)
+        {
+            try
+            {
+                _serviceController.Start();
+                _serviceController.WaitForStatus(ServiceControllerStatus.Running,new TimeSpan(0,1,0));
+                return _serviceController.Status.ToString();
+
+            }
+            catch (Exception exp)
+            {
+                return exp.Message;
+            }
+        }
+
+        private readonly string _onStopMessage;
+        private readonly ServiceController _serviceController;
+
+        public bool ServiceIsGivenAndExists(string serviceName)
+        {
             if (string.IsNullOrEmpty(serviceName))
                 throw new ArgumentException("Its not givven.", nameof(serviceName));
 
             if (!DoesServiceExist(serviceName))
                 throw new ArgumentException("Service does not exist.", nameof(serviceName));
 
-            _serviceController = new ServiceController(serviceName);
-            _onStopMessage = onStopMessage;
+            return true;
         }
-
-
-        private readonly string _onStopMessage;
-        private readonly ServiceController _serviceController;
-
         public ServiceControllerStatus ServiceControllerStatus => _serviceController.Status;
 
         private static bool DoesServiceExist(string serviceName, string machineName)
