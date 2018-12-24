@@ -1,0 +1,15 @@
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Release\WebFreeApis.csprojAssemblyReference.cache
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Release\WebFreeApis.Main.resources
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Release\WebFreeApis.Properties.Resources.resources
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Release\WebFreeApis.csproj.GenerateResource.cache
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Release\WebFreeApis.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Release\WebFreeApis.exe.config
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Release\WebFreeApis.exe
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Release\WebFreeApis.pdb
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Release\Newtonsoft.Json.dll
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Release\WebFreeApis.csproj.CopyComplete
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Release\WebFreeApis.exe
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Release\WebFreeApis.pdb
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Release\Newtonsoft.Json.xml

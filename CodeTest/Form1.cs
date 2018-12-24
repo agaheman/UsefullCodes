@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using AgahClassLibrary;
 using DNTPersianUtils.Core;
+using System.IO;
 
 namespace CodeTest
 {
@@ -117,5 +118,20 @@ namespace CodeTest
                     NormalizePersianText    {"'سلام عزیزم'.".NormalizePersianText(PersianNormalizers.ConvertEnglishQuotes)}{Environment.NewLine}
                     '1397/01/00' IsValidPersianDateTime  {"1397/01/00".IsValidPersianDateTime()}{Environment.NewLine}");
         }
-    }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            var drives = DriveInfo.GetDrives().Where(x => x.IsReady).ToList();
+
+            foreach (var drive in drives)
+            {
+                if (drive.Name == (Path.GetPathRoot(Environment.SystemDirectory)))
+                {
+                    this.Text  = Convert.ToChar(Path.GetPathRoot(Environment.SystemDirectory).Substring(0, 1)).ToString();
+                }
+                listBox1.Items.Add(drive.Name);
+                textBox2.Text = Path.GetPathRoot(Environment.SystemDirectory);
+            }
+            }
+        }
 }

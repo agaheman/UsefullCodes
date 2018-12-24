@@ -1,0 +1,12 @@
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Release\AgahClassLibrary.dll.config
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Release\AgahClassLibrary.dll
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Release\AgahClassLibrary.pdb
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Release\EntityFramework.dll
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Release\EntityFramework.xml
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\obj\Release\AgahClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\obj\Release\AgahClassLibrary.dll
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\obj\Release\AgahClassLibrary.pdb
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\obj\Release\AgahClassLibrary.csprojAssemblyReference.cache
+C:\Users\Agah\Desktop\UsefullCodes\AgahClassLibrary\obj\Release\AgahClassLibrary.csproj.CopyComplete

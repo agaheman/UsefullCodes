@@ -1,0 +1,12 @@
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\bin\Release\IISAdministration.exe.config
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\bin\Release\IISAdministration.exe
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\bin\Release\IISAdministration.pdb
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\bin\Release\Microsoft.Web.Administration.dll
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\obj\Release\IISAdministration.Form1.resources
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\obj\Release\IISAdministration.Properties.Resources.resources
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\obj\Release\IISAdministration.csproj.GenerateResource.Cache
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\obj\Release\IISAdministration.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\obj\Release\IISAdministration.exe
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\obj\Release\IISAdministration.pdb
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\obj\Release\IISAdministration.csprojAssemblyReference.cache
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministration\obj\Release\IISAdministration.csproj.CopyComplete

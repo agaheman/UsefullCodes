@@ -1,0 +1,16 @@
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\bin\Release\ServiceStateObserver.exe.config
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\bin\Release\ServiceStateObserver.exe
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\bin\Release\ServiceStateObserver.pdb
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\bin\Release\AgahClassLibrary.dll
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\bin\Release\EntityFramework.dll
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\bin\Release\AgahClassLibrary.pdb
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\bin\Release\AgahClassLibrary.dll.config
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\bin\Release\EntityFramework.xml
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\obj\Release\ServiceStateObserver.Form1.resources
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\obj\Release\ServiceStateObserver.Properties.Resources.resources
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\obj\Release\ServiceStateObserver.csproj.GenerateResource.Cache
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\obj\Release\ServiceStateObserver.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\obj\Release\ServiceStateObserver.exe
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\obj\Release\ServiceStateObserver.pdb
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\obj\Release\ServiceStateObserver.csprojAssemblyReference.cache
+C:\Users\Agah\Desktop\UsefullCodes\ServiceStateObserver\obj\Release\ServiceStateObserver.csproj.CopyComplete

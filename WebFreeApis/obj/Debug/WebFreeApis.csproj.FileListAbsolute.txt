@@ -1,0 +1,15 @@
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Debug\WebFreeApis.exe.config
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Debug\WebFreeApis.exe
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Debug\WebFreeApis.pdb
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Debug\WebFreeApis.csprojAssemblyReference.cache
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Debug\WebFreeApis.Main.resources
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Debug\WebFreeApis.Properties.Resources.resources
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Debug\WebFreeApis.csproj.GenerateResource.cache
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Debug\WebFreeApis.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Debug\WebFreeApis.csproj.CopyComplete
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Debug\WebFreeApis.exe
+C:\Users\Agah\Desktop\UsefullCodes\WebFreeApis\obj\Debug\WebFreeApis.pdb

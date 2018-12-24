@@ -1,0 +1,13 @@
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\bin\Debug\FarsiLibrary.exe.config
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\bin\Debug\FarsiLibrary.exe
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\bin\Debug\FarsiLibrary.pdb
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\bin\Debug\FarsiLibrary.Localization.dll
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\bin\Debug\FarsiLibrary.Utils.dll
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\bin\Debug\FarsiLibrary.Win.dll
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\obj\Debug\FarsiLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\obj\Debug\FarsiLibrary.Form1.resources
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\obj\Debug\FarsiLibrary.Properties.Resources.resources
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\obj\Debug\FarsiLibrary.csproj.GenerateResource.Cache
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\obj\Debug\FarsiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\obj\Debug\FarsiLibrary.exe
+C:\Users\Agah\Desktop\UsefullCodes\FarsiLibrary\obj\Debug\FarsiLibrary.pdb

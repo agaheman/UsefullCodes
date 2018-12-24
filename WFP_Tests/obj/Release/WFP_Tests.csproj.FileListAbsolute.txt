@@ -1,0 +1,10 @@
+C:\Users\Agah\Desktop\UsefullCodes\WFP_Tests\bin\Release\WFP_Tests.exe.config
+C:\Users\Agah\Desktop\UsefullCodes\WFP_Tests\bin\Release\WFP_Tests.exe
+C:\Users\Agah\Desktop\UsefullCodes\WFP_Tests\bin\Release\WFP_Tests.pdb
+C:\Users\Agah\Desktop\UsefullCodes\WFP_Tests\obj\Release\WFP_Tests.Form1.resources
+C:\Users\Agah\Desktop\UsefullCodes\WFP_Tests\obj\Release\WFP_Tests.Properties.Resources.resources
+C:\Users\Agah\Desktop\UsefullCodes\WFP_Tests\obj\Release\WFP_Tests.csproj.GenerateResource.Cache
+C:\Users\Agah\Desktop\UsefullCodes\WFP_Tests\obj\Release\WFP_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\WFP_Tests\obj\Release\WFP_Tests.exe
+C:\Users\Agah\Desktop\UsefullCodes\WFP_Tests\obj\Release\WFP_Tests.pdb
+C:\Users\Agah\Desktop\UsefullCodes\WFP_Tests\obj\Release\WFP_Tests.csprojAssemblyReference.cache

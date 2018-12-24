@@ -1,0 +1,10 @@
+C:\Users\Agah\Desktop\UsefullCodes\EF Test\bin\Release\EF Test.exe.config
+C:\Users\Agah\Desktop\UsefullCodes\EF Test\bin\Release\EF Test.exe
+C:\Users\Agah\Desktop\UsefullCodes\EF Test\bin\Release\EF Test.pdb
+C:\Users\Agah\Desktop\UsefullCodes\EF Test\obj\Release\EF_Test.Form1.resources
+C:\Users\Agah\Desktop\UsefullCodes\EF Test\obj\Release\EF_Test.Properties.Resources.resources
+C:\Users\Agah\Desktop\UsefullCodes\EF Test\obj\Release\EF Test.csproj.GenerateResource.Cache
+C:\Users\Agah\Desktop\UsefullCodes\EF Test\obj\Release\EF Test.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\EF Test\obj\Release\EF Test.exe
+C:\Users\Agah\Desktop\UsefullCodes\EF Test\obj\Release\EF Test.pdb
+C:\Users\Agah\Desktop\UsefullCodes\EF Test\obj\Release\EF Test.csprojAssemblyReference.cache

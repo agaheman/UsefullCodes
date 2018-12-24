@@ -41,6 +41,15 @@
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
+    <Reference Include="FarsiLibrary.Localization, Version=2.7.0.0, Culture=neutral, PublicKeyToken=def7c46cace23f8f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Farsi.Library.Win.2.7.0\lib\net46\FarsiLibrary.Localization.dll</HintPath>
+    </Reference>
+    <Reference Include="FarsiLibrary.Utils, Version=2.7.0.0, Culture=neutral, PublicKeyToken=def7c46cace23f8f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Farsi.Library.Win.2.7.0\lib\net46\FarsiLibrary.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="FarsiLibrary.Win, Version=2.7.0.0, Culture=neutral, PublicKeyToken=def7c46cace23f8f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Farsi.Library.Win.2.7.0\lib\net46\FarsiLibrary.Win.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />

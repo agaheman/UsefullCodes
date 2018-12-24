@@ -1,0 +1,13 @@
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\bin\Release\IISAdministrationAPI.exe.config
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\bin\Release\IISAdministrationAPI.exe
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\bin\Release\IISAdministrationAPI.pdb
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\bin\Release\Newtonsoft.Json.dll
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\obj\Release\IISAdministrationAPI.Form1.resources
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\obj\Release\IISAdministrationAPI.Properties.Resources.resources
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\obj\Release\IISAdministrationAPI.csproj.GenerateResource.Cache
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\obj\Release\IISAdministrationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\obj\Release\IISAdministrationAPI.exe
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\obj\Release\IISAdministrationAPI.pdb
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\obj\Release\IISAdministrationAPI.csprojAssemblyReference.cache
+C:\Users\Agah\Desktop\UsefullCodes\IISAdministrationAPI\obj\Release\IISAdministrationAPI.csproj.CopyComplete

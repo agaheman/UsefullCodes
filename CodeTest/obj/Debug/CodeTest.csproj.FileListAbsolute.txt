@@ -27,3 +27,6 @@ C:\Users\Agah\Desktop\UsefullCodes\CodeTest\bin\Debug\EntityFramework.SqlServer.
 C:\Users\Agah\Desktop\UsefullCodes\CodeTest\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Agah\Desktop\UsefullCodes\CodeTest\bin\Debug\DNTPersianUtils.Core.dll
 C:\Users\Agah\Desktop\UsefullCodes\CodeTest\bin\Debug\DNTPersianUtils.Core.xml
+C:\Users\Agah\Desktop\UsefullCodes\CodeTest\bin\Debug\FarsiLibrary.Localization.dll
+C:\Users\Agah\Desktop\UsefullCodes\CodeTest\bin\Debug\FarsiLibrary.Utils.dll
+C:\Users\Agah\Desktop\UsefullCodes\CodeTest\bin\Debug\FarsiLibrary.Win.dll
